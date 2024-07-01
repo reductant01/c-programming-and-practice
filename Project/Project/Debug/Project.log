@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(460,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(462,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(463,45): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(465,44): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(467,50): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\OneDrive\3_1\c++\Project\Project\소스.cpp(468,50): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Project.vcxproj -> C:\Users\Admin\OneDrive\3_1\c++\Project\Debug\Project.exe
