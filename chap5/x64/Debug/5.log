@@ -1,4 +1,0 @@
-﻿  5장_과제_static변수클래스소스.cpp
-C:\Users\user\OneDrive\3_1\c++\chap5\5장_과제_static변수클래스소스.cpp(107): warning C4172: 지역 변수 또는 임시: mergedList의 주소를 반환하고 있습니다.
-  LINK : C:\Users\user\OneDrive\3_1\c++\chap5\x64\Debug\5.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  5.vcxproj -> C:\Users\user\OneDrive\3_1\c++\chap5\x64\Debug\5.exe
